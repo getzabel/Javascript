@@ -16,3 +16,6 @@ null
 1, 2, 4.5
 
 //NAN ( represents a computational eror)
+
+//Undefined (a declared variable but hasn’t been given a value)
+
