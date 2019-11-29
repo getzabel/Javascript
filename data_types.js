@@ -17,4 +17,11 @@ null
 
 
 //Undefined (a declared variable but hasn’t been given a value)
+let a;
+console.log(a); //undefined
 
+
+
+// Object 
+
+// Symbol
